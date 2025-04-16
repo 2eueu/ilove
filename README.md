@@ -21,7 +21,7 @@ This page was made to **automate her daily task**, celebrate our friendship, and
 ## 🔗 Live Demos
 
 - 🛫 **Real-time Flight Counter**: [Streamlit Dashboard](https://yk7ajtezhqxzseqb5xphuu.streamlit.app/)
-- 🌸 **Main Tribute Page**: [GitHub Pages](https://2eueu.github.io/i-love-jeongseon/)
+- 🌸 **Main Tribute Page**: [GitHub Pages](https://2eueu.github.io/ilove/)
 
 ---
 
